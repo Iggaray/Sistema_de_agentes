@@ -1,0 +1,6 @@
+#ifndef RANDOM_GENERATOR_H_INCLUDED
+#define RANDOM_GENERATOR_H_INCLUDED
+
+extern float ran2(long *idum);
+
+#endif // RANDOM_GENERATOR_H_INCLUDED
